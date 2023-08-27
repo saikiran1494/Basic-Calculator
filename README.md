@@ -1,4 +1,4 @@
-# basic-calculator
+# Basic-Calculator
 
 Technology Used : 
           HTML, CSS, JS
